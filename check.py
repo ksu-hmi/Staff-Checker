@@ -1,6 +1,5 @@
 @ -0,0 +1,93 @@
 # staff checker biometrics
-# Przemyslaw Pastuszka
 
 from PIL import Image, ImageDraw
 import utils
